@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f1f1f1;
+   
+}
+.AppBody{
+  background-color: #fff;
+  border: 3px dotted #d1d6d6;
+  width: 700px;
+  height: 500px;
+  box-shadow: rgba(0,0,0,0.1) 0px 10px 50px;
+}
+.AppBody .active{
+    border: 3px solid rgb(168, 12, 17);
+}
+.AppBody:hover{
+    border: 3px solid rgba(18, 126, 43, 0.713);
+}
+.icon{
+    color: rgba(14, 149, 45, 0.713);
+    padding: 20px;
+}
